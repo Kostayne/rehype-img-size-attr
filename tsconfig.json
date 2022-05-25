@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "strict": false,
+        "outDir": "dist",
+        "esModuleInterop": true,
+        "target": "ESNext",
+        "module": "ESNext",
+        "moduleResolution": "Node",
+        "types": ["node"],
+        "baseUrl": "dist",
+        "declaration": true,
+        "sourceMap": true
+    },
+
+    "include": ["src"]
+}
